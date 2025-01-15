@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Ricardo 👋 
 
-<!--
-**rgd731/rgd731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack software engineer eager to make my mark in the tech world! With expertise in JavaScript, TypeScript, Python, PostgreSQL, and React, I thrive on taking on complex challenges and learning new things.
 
-Here are some ideas to get you started:
+While I'm not at my computer, I love to cook interesting and new dishes and go hiking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently, I built [Splinter](https://splinter-app.github.io/), an open-source ETL pipeline for transforming unstructured data into vectors for AI/ML workflows.
+
+Read more about Splinter [here](https://splinter-app.github.io/)!
+
+### Programming Stack
+
+|Category|Technologies|
+|---|---|
+|Programming Languages|JavaScript, TypeScript, Python|
+|Web Development|Express, React, Node.js, jQuery, HTML5, CSS|
+|Databases|MongoDB, PostgreSQL|
+|Cloud Services|AWS|
+|Containerization|Docker|
+|APIs and Testing|RESTful APIs, FastAPI, Jest|
+|Other|WebSockets, Git, Nginx|
+
+### Reach out and connect with me!
+* <a target="_blank" href="https://www.linkedin.com/in/rgdelgado/">LinkedIn</a>
+* <a target="_blank" href="mailto:ricardo.delgado123@gmail.com">Email</a>
